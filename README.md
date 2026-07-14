@@ -24,9 +24,6 @@ license: apache-2.0
 - **Language Support:** Turkish (primary), English
 - **Execution:** Locally with Ollama
 
-## Files
-- **https://huggingface.co/ChallengerBey/Saerix
-
 ## Installation
 
 ### Installation with Ollama
@@ -69,3 +66,6 @@ This model is a derivative of Qwen2.5-Coder-7B. The model weights have not been 
 ## License
 
 Apache 2.0 — Based on the [Qwen2.5-Coder-7B](https://huggingface.co/Qwen/Qwen2.5-Coder-7B) base model license.
+
+## HF Links
+- https://huggingface.co/ChallengerBey/Saerix
