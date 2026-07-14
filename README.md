@@ -24,6 +24,9 @@ license: apache-2.0
 - **Language Support:** Turkish (primary), English
 - **Execution:** Locally with Ollama
 
+## Files
+- **https://huggingface.co/ChallengerBey/Saerix
+
 ## Installation
 
 ### Installation with Ollama
